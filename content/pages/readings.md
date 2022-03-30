@@ -386,7 +386,7 @@ Covering Apollo: The role of the press
 
 Smith, Michael L. "Selling the Moon: The U.S. Manned Space Program and the Triumph of Commodity Scientism." In _The Culture of Consumption: Critical Essays in American History, 1880-1980_. Edited by Richard Wightman Foz and T. J. Jackson Lears. New York, NY: Pantheon, 1983. ISBN: 9780394511313.
 
-Launius. "Heroes in a Vacuum: The Apollo Astronaut as Cultural Icon." (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://klabs.org/history/roger/launius_2005.pdf))
+Launius. "Heroes in a Vacuum: The Apollo Astronaut as Cultural Icon." ([PDF](http://klabs.org/history/roger/launius_2005.pdf))
 
 Collection of original news articles.
 
