@@ -3,6 +3,10 @@ content_type: resource
 description: Apollo Lunar Landing Audio/Video Clip.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/sts-471j-engineering-apollo-the-moon-project-as-a-complex-system-spring-2007/353d2b2b1f4012aa4a7ca8b692cc1020_ap15_descent.mpg
 file_type: video/mpeg
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Related Resources
+parent_type: CourseSection
 parent_uid: 7708bcb7-a03e-5092-7719-b10ab10ec04d
 resourcetype: Other
 title: ap15_descent.mpg

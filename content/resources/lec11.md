@@ -3,6 +3,11 @@ content_type: resource
 description: Lecture notes about Apollo guidance and control issues and landing.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/sts-471j-engineering-apollo-the-moon-project-as-a-complex-system-spring-2007/c03e835580d481158a654eed546ff630_lec11.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 parent_uid: fa1dae85-d0bb-9992-a76e-f39a0f5eac01
 resourcetype: Document
 title: lec11.pdf

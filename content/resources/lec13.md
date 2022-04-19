@@ -3,6 +3,11 @@ content_type: resource
 description: Lecture notes about Engineering the LEM.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/sts-471j-engineering-apollo-the-moon-project-as-a-complex-system-spring-2007/238b49e8cd485aae5a76b47fac85626b_lec13.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 parent_uid: fa1dae85-d0bb-9992-a76e-f39a0f5eac01
 resourcetype: Document
 title: lec13.pdf

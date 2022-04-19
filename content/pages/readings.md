@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 4d035eb9-0419-8533-d950-ab8847bef39c
 ---
@@ -242,7 +245,7 @@ Apollo guidance and control
 
 Hall, Eldon C. _Journey to the Moon: The History of the Apollo Guidance Computer_. Reston, VA: American Institute of Aeronautics and Astronautics, 1996, chapters 4-7. ISBN: 9781563471858.
 
-Nevins, J. L. "Man-Machine Design for the Apollo Guidance, Navigation, and Control System." Presented at the 2nd IFAC Symposium on Automatic Control in Space, Vienna, Austria, September 4-8, 1967.
+Nevins, J. L. "Man-Machine Design for the Apollo Guidance, Navigation, and Control System." Presented at the 2{{< sup "nd" >}} IFAC Symposium on Automatic Control in Space, Vienna, Austria, September 4-8, 1967.
 
 Mindell, chapters 5-6.
 
@@ -386,7 +389,7 @@ Covering Apollo: The role of the press
 
 Smith, Michael L. "Selling the Moon: The U.S. Manned Space Program and the Triumph of Commodity Scientism." In _The Culture of Consumption: Critical Essays in American History, 1880-1980_. Edited by Richard Wightman Foz and T. J. Jackson Lears. New York, NY: Pantheon, 1983. ISBN: 9780394511313.
 
-Launius. "Heroes in a Vacuum: The Apollo Astronaut as Cultural Icon." ([PDF](http://klabs.org/history/roger/launius_2005.pdf))
+Launius. "Heroes in a Vacuum: The Apollo Astronaut as Cultural Icon." (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://klabs.org/history/roger/launius_2005.pdf))
 
 Collection of original news articles.
 
