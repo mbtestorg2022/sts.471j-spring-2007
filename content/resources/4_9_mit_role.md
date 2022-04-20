@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/3354a1dbeecaa22cf9c0e7e1cbfe4727_4_9_mit_role.pdf
+file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/sts-471j-engineering-apollo-the-moon-project-as-a-complex-system-spring-2007/3354a1dbeecaa22cf9c0e7e1cbfe4727_4_9_mit_role.pdf
 file_type: application/pdf
 learning_resource_types:
 - Readings
